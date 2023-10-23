@@ -10,6 +10,6 @@ class BeginPage extends StatefulWidget {
 class _BeginPageState extends State<BeginPage> {
   @override
   Widget build(BuildContext context) {
-    return Text("Haha hater quá ba hoa");
+    return Text("Ba);
   }
 }
