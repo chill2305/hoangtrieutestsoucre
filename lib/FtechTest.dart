@@ -10,6 +10,6 @@ class TestFetch extends StatefulWidget {
 class _TestFetchState extends State<TestFetch> {
   @override
   Widget build(BuildContext context) {
-    return Text('Test fetch');
+    return Text('close');
   }
 }
