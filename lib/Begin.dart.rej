@@ -1,0 +1,9 @@
+diff a/lib/Begin.dart b/lib/Begin.dart	(rejected hunks)
+@@ -10,6 +10,6 @@
+ class _BeginPageState extends State<BeginPage> {
+   @override
+   Widget build(BuildContext context) {
+-    return Text("Ba");
++    return Text("Ba);
+   }
+ }
