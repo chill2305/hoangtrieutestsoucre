@@ -10,7 +10,7 @@ class Merge extends StatefulWidget {
 class _MergeState extends State<Merge> {
   @override
   Widget build(BuildContext context) {
-    return Text("Merge");
+    return Text("Merge từ Qui");
   }
 }
 
